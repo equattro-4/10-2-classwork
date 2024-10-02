@@ -1,0 +1,8 @@
+1.) git add .
+- adds files to queue
+
+2.) git commit -m "comment"
+- adds note to queue
+
+3.) git push origin main
+- sends files to github
